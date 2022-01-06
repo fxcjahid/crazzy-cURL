@@ -1,0 +1,21 @@
+{
+    "name": "crazzycURL/curl",
+    "description": "Simple and faster cURL request",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Fxc Jahid",
+            "email": "fxcjahid3@@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "crazzy\\cURL\\": "src/"
+        }
+    }, 
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
