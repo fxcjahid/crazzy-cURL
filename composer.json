@@ -5,7 +5,7 @@
     "authors": [
         {
             "name": "Fxc Jahid",
-            "email": "fxcjahid3@@gmail.com"
+            "email": "fxcjahid3@gmail.com"
         }
     ],
     "require": {
@@ -15,7 +15,5 @@
         "psr-4": {
             "crazzy\\cURL\\": "src/"
         }
-    }, 
-    "minimum-stability": "dev",
-    "prefer-stable": true
+    },
 }
